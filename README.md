@@ -1,6 +1,6 @@
-## Olá! Eu sou o Diego Ronan Félix 🖐️ <br /><br />
+### Olá! Eu sou o Diego Ronan Félix 🖐️ <br />
 
-<br />[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-ronan-felix/) <br /><br />
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-ronan-felix/) <br /><br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-ronan-felix&show_icons=true)](https://github.com/diego-ronan-felix/github-readme-stats) <br /><br />
 
