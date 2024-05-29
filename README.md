@@ -4,7 +4,7 @@
 
 [![Diego Ronan GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-ronan-felix&show_icons=true&theme=tokyonight)](https://github.com/diego-ronan-felix/github-readme-stats) <br /><br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-ronan-felix)](https://github.com/diego-ronan-felix/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia a dia:
 <div style="display: inline-block;"><br/>
